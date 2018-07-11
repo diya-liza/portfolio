@@ -1,0 +1,15 @@
+#jumb_h{
+font-family: 'Chonburi', cursive;
+font-size: 50px;
+}
+body{
+	background-color: black;
+	color: white;
+}
+body h1{
+	font-family: 'Roboto', sans-serif;
+}
+body p{
+	font-family: 'Markazi Text', serif;
+	font-size: 20px;
+}
